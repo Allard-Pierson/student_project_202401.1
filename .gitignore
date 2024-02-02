@@ -1,0 +1,11 @@
+venv
+
+api/venv/
+api/dataset/new-smaller_file
+api/dataset/smaller_file
+api/dataset/Books.xml
+
+.idea/hva_ai_bibliotheek_opdracht1.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/Project_Default.xml

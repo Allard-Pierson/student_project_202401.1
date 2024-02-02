@@ -1,0 +1,12 @@
+annif==1.0.0
+flask
+flask-cors
+lxml
+tqdm
+pandas
+torch
+transformers
+scikit-learn
+psutil
+beautifulsoup4
+requests
